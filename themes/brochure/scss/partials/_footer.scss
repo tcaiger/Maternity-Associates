@@ -1,0 +1,21 @@
+
+footer{
+	padding: 2em 0em 2em;
+	background: #333;
+	color: #B3B5B6;
+	.container{
+		p, a{
+			font-size: 0.9em;
+			color: #bbc;
+			margin: 0;
+		}
+		a{
+			margin-right: 1em;
+			border-bottom: 1px dotted #B3B5B6;
+			transition: all 0.2s;
+			&:hover{
+				color: white;
+			}
+		}
+	} 
+}

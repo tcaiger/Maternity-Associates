@@ -1,0 +1,31 @@
+.profile-page{
+	.profile-photo{
+		background-size: cover;
+		background-position: center top;
+		background-repeat: no-repeat;
+		height: 300px;
+		margin-top: 24px;
+	}
+	.partner{
+		a{
+			&:hover{
+				text-decoration: none;
+			}
+		}
+		.img-thumbnail{
+			background-size: cover; 
+			background-position: center top; 
+			height: 40px;
+			width: 40px;
+		}
+	
+		h4{
+			color: #555;
+			display: inline-block; 
+			position: relative; top: -14px; 
+			text-decoration: none;
+		}
+	}
+}
+
+

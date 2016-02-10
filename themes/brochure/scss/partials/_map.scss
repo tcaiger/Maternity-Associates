@@ -1,0 +1,22 @@
+
+.find-us{
+	height: 400px;
+	background: #222249;
+	padding: 4em 1em 1em 4em;
+	h2{
+		color: white;
+		text-transform: uppercase;
+	}
+	p{
+		color: white;
+	}
+}
+.map-holder{
+	padding: 0;
+}
+.mat-map{
+	height: 400px;
+	@media(max-width: $small){
+		min-width: 100%;
+	}
+}

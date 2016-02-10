@@ -1,0 +1,100 @@
+.container{
+    @media (min-width: 960px) {
+        width: 1000px;
+    }
+
+}
+
+// PAGE TEMPALATE
+main{
+	margin-top: 1em;
+	margin-bottom: 3em;
+}
+
+// MIDWIVES PAGE TEMPLATE
+.midwives{
+	// text-align: center;
+	margin-bottom: 3em;
+	.img-holder:nth-child(3n){
+		margin-right: 0;
+	}
+	.img-holder{
+		margin-right: 3em;
+		margin-top: 0em;
+		margin-bottom: 1em;
+		margin-left: 0;
+
+		transition: all 0.1s;
+		&:hover{
+			cursor: pointer;
+			opacity: 0.9;
+		}
+		.img{
+			display: block;
+			width: 254px;
+			height: 260px;
+			background-repeat: no-repeat;
+		}
+		h4{
+			color: #333;
+			margin: 0.5em 0 0;
+		}
+		.partner{
+			font-size: 0.9em;
+			margin-bottom: 2em;
+		}
+		.phone{
+			font-size: 0.9em;
+			margin-top: 0.5em;
+		}
+	}
+}
+.grey-banner{
+	padding: 3em 0 6em 0;
+	background: $grey;
+	margin-bottom: 5em;
+	.image{
+		min-width: 400px;
+		height: 260px;
+		position: relative;
+		top: -3em;
+		margin: 0 4em 0 3em;
+		background: url('../img/group.jpg'); 
+		background-size: cover;
+	}
+}
+.modal-content{
+	max-width: 25em;
+	padding: 0 2em 1em 1em;
+}
+.modal-img{
+	margin-right: 2em;
+	width: 240px;
+	height: 240px;
+	background-repeat: no-repeat;
+	
+}
+
+// CONTACT PAGE
+.contact-title{
+	margin: 1em 0 0;
+}
+main.contact{
+	padding: 0;
+	.right{
+		padding-left: 3em;
+		margin-left: 3em;
+	}
+	.left{
+		padding-right: 3em;
+		margin-right: 3em;
+	}
+	.image{
+		height: 260px;
+		background: url('../img/karen.jpg'); 
+		background-size: cover;
+	}
+	textarea{
+		max-height: 100px;
+	}
+}

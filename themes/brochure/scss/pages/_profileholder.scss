@@ -1,0 +1,23 @@
+.profile-holder{
+	.thumbnail{
+		a:hover{
+			text-decoration: none;
+		}
+		.caption{
+			h3{
+				font-size: 1.5em;
+				margin-bottom: 18px;
+			}
+			a{
+				color: #555;
+			}
+		}
+	}
+
+	.profile-pic{
+		height: 240px;
+		width: 100%;
+		background-size: 100% auto;
+		background-repeat: no-repeat;
+	}
+}

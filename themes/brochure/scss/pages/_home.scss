@@ -1,0 +1,53 @@
+// FRONT PAGE
+
+.home-banner{
+	padding: 5% 0 1em;
+	margin: 0 auto;
+	height: 500px;
+	background-image: url('../img/banner-hands.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	@media(max-width: $small){
+		height: 400px;
+	}
+}
+.tagline{
+	width: 420px;
+	h1{
+		color: #fff;
+		margin: 1em 0;
+		font-weight: 800;
+		line-height: 1.1;
+	}
+	.btn{
+		display: block;
+		width: 150px;
+		border: 1px solid white;
+		margin: 4em 0 0;
+		padding: 1em;
+		transition: all 0.2s;
+		h4{
+			color: white;
+		}
+		&:hover{
+			background: white;
+			h4{
+				color: black;
+			}
+		}
+	}
+}
+
+.welcome{
+	background: #fafafa;
+	padding: 5em 2em 7em;
+	text-align: center;
+	margin-bottom: 3em;
+	h1{
+		padding: 0 0 1em 0;
+		margin: 0;
+	}
+	p{
+		font-size: 1.4em;
+	}
+}

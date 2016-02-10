@@ -1,0 +1,270 @@
+fa_IR:
+  AssetAdmin:
+    NEWFOLDER: پوشه جديد
+  AssetTableField:
+    DIM: ابعاد
+    FILENAME: نام فايل
+    FOLDER: پوشه
+    LASTEDIT: 'آخرین تغییرات'
+    OWNER: دارنده
+    SIZE: 'حجم'
+    TITLE: عنوان
+    TYPE: 'نوع'
+    URL: نشانی
+  AssetUploadField:
+    EDITALL: 'ویرایش همه'
+    EDITINFO: 'ویرایش فایل‌ها'
+    FILES: فایل‌ها
+    TOTAL: مجموع
+  BBCodeParser:
+    ALIGNEMENT: جاگذاری
+    ALIGNEMENTEXAMPLE: 'به راست'
+    BOLD: 'نوشته درست'
+    BOLDEXAMPLE: درست
+    COLORED: 'نوشته رنگی'
+    COLOREDEXAMPLE: 'نوشته آبی'
+    EMAILLINK: 'پیوند ایمیل'
+    IMAGE: عکس
+    ITALIC: 'نوشته گژ'
+    ITALICEXAMPLE: گژ
+    LINK: 'پیوند تارگاه'
+    UNDERLINE: 'نوشته با زیرخط'
+    UNDERLINEEXAMPLE: زیرخط
+  Boolean:
+    ANY: هر
+    NOANSWER: 'خیر'
+    YESANSWER: 'بله'
+  CMSLoadingScreen_ss:
+    LOADING: بارگذاری...
+  CMSMain:
+    SAVE: نگاهداری
+  CMSMemberLoginForm:
+    BUTTONFORGOTPASSWORD: 'رمز عبور را فراموش کرده‌اید؟'
+    BUTTONLOGOUT: 'خروج'
+  CMSPageHistoryController_versions_ss:
+    PREVIEW: 'پیش‌نمایش وب‌سایت'
+  CMSProfileController:
+    MENUTITLE: 'پروفایل من'
+  CMSSecurity:
+    SUCCESS: موفقیت
+  ChangePasswordEmail_ss:
+    CHANGEPASSWORDTEXT1: 'شما گذرواژه تان را دگرگون کردید برای'
+    EMAIL: ايميل
+    HELLO: درود
+    PASSWORD: كلمه عبور
+  CheckboxField:
+    NOANSWER: 'خیر'
+    YESANSWER: 'بله'
+  ConfirmedPasswordField:
+    SHOWONCLICKTITLE: 'تغيير كلمه عبور'
+  CreditCardField:
+    FIRST: نخست
+    FOURTH: چهارم
+    SECOND: دوم
+    THIRD: سوم
+  CurrencyField:
+    CURRENCYSYMBOL: ﷼
+  DataObject:
+    PLURALNAME: 'داده های اشیاء'
+    SINGULARNAME: 'داده اشیاء'
+  Date:
+    DAY: روز
+    DAYS: روز
+    HOUR: ساعت
+    HOURS: ساعت
+    LessThanMinuteAgo: 'کمتر از یک دقیقه'
+    MIN: دقیقه
+    MINS: دقیقه
+    MONTH: ماه
+    MONTHS: ماه
+    SEC: ثانیه
+    SECS: ثانیه
+    TIMEDIFFAGO: '{difference} پیش'
+    TIMEDIFFIN: 'در {difference}'
+    YEAR: سال
+    YEARS: سال
+  DateField:
+    TODAY: امروز
+  DropdownField:
+    CHOOSE: (گزینش)
+  Enum:
+    ANY: هر
+  File:
+    AviType: 'فایل ویدیو AVI'
+    Content: محتوا
+    CssType: 'فایل CSS'
+    Filename: نام پرونده
+    HtlType: 'فایل HTML'
+    HtmlType: 'فایل HTML'
+    Name: نام
+    PLURALNAME: فايل ها
+    SINGULARNAME: فايل
+    Title: عنوان
+  Folder:
+    PLURALNAME: پوشه‌ها
+    SINGULARNAME: پوشه
+  ForgotPasswordEmail_ss:
+    HELLO: درود
+    TEXT3: برای
+  Form:
+    SubmitBtnLabel: برو
+    VALIDATIONPASSWORDSDONTMATCH: 'گذرواژه‌ها همانند هم نیستند'
+    VALIDATIONPASSWORDSNOTEMPTY: 'گذرواژه نباید تهی باشد'
+  FormField:
+    NONE: هیچ کدام
+  GridAction:
+    DELETE_DESCRIPTION: حذف
+    Delete: حذف
+  GridField:
+    Find: بگرد
+    ResetFilter: از نو
+  GridFieldEditButton_ss:
+    EDIT: ویرایش
+  GridFieldItemEditView:
+    Go_back: 'بازگشت'
+  Group:
+    Code: 'كد گروه'
+    DefaultGroupTitleAdministrators: مدیران کل
+    DefaultGroupTitleContentAuthors: 'نویسندگان مطالب'
+    Description: توضحیات
+    Locked: 'بسته شده است؟'
+    PLURALNAME: گروه‌ها
+    Parent: 'گروه مادر'
+    RolesAddEditLink: 'اضافه/ویرایش وظیفه'
+    SINGULARNAME: گروه
+    Sort: 'تربیت چیدن'
+    has_many_Permissions: مجوز‌ها
+    many_many_Members: اعضاء
+  GroupImportForm:
+    ResultDeleted: 'گروه %d حذف شد'
+    ResultUpdated: 'گروه %d بروز شد'
+  HtmlEditorField:
+    ADDURL: 'افزودن URL'
+    BUTTONINSERT: وارد کردن
+    BUTTONINSERTLINK: 'گذاشتن پیوند'
+    BUTTONREMOVELINK: 'برداشتن پیوند'
+    BUTTONUpdate: به روزرسانی
+    CSSCLASS: 'جاگیری / الگو'
+    EMAIL: 'پست الکترونیک'
+    FILE: پرونده
+    FOLDER: پوشه
+    IMAGEHEIGHTPX: بلندی
+    IMAGEWIDTHPX: پهنا
+    LINK: 'پیوند'
+    LINKEMAIL: 'پست الکترونیک'
+    LINKEXTERNAL: 'تارگاه دیگر'
+    LINKFILE: 'یک پرونده را بارگزاری کنید'
+    LINKINTERNAL: 'برگ در تارگاه'
+    LINKOPENNEWWIN: 'در پنجره جدید باز شود ؟'
+    LINKTO: 'پیوند به'
+    PAGE: برگ
+    URL: نشانی
+  Image:
+    PLURALNAME: فایل‌ها
+    SINGULARNAME: فايل
+  Image_Cached:
+    PLURALNAME: فایل‌ها
+    SINGULARNAME: فايل
+  LeftAndMain:
+    DELETED: حذف شده
+    HELP: کمک
+    PERMAGAIN: 'شما از سیستم مدیریت محتوا خارج شده اید.اگر میخواهید دوباره وارد شوید نام کاربری و رمز عبور خود را در قسمت زیر وارد کنید'
+    PreviewButton: پیش‌نمایش
+    SAVEDUP: ذخیره شده
+  LeftAndMain_Menu_ss:
+    Hello: درود
+    LOGOUT: 'خروج'
+  LoginAttempt:
+    Email: 'نشانی ای‌میل'
+    IP: 'نشانی IP'
+    Status: وضعیت
+  Member:
+    BUTTONCHANGEPASSWORD: 'تغییر رمز عبور'
+    BUTTONLOGIN: 'ورود'
+    CONFIRMNEWPASSWORD: 'تکرار رمز عبور جدید'
+    CONFIRMPASSWORD: 'تکرار رمز عبور'
+    DefaultAdminFirstname: 'مدیر پیشفرض'
+    EMAIL: پست الکترونیک
+    EMPTYNEWPASSWORD: 'رمز عبور جدید نمیتواند خالی باشد، لطفا دوباره تلاش کنید'
+    FIRSTNAME: 'نام'
+    INTERFACELANG: 'زبان برنامه'
+    NEWPASSWORD: 'گذرواژه تازه'
+    PASSWORD: رمز عبور
+    PLURALNAME: اعضاء
+    SINGULARNAME: عضو
+    SUBJECTPASSWORDCHANGED: 'گذرواژه شما دگرگون شد'
+    SUBJECTPASSWORDRESET: 'پیوند ازنوسازی گذرواژه شما'
+    SURNAME: نام خانوادگی
+    TIMEFORMAT: 'قالب زمان'
+    YOUROLDPASSWORD: 'رمز عبور قدیمی'
+    belongs_many_many_Groups: گروه‌ها
+    db_LockedOutUntil: 'بسته شده تا '
+    db_Password: رمز عبور
+    db_PasswordExpiry: 'تاریخ از میان رفتن گذرواژه'
+  MemberDatetimeOptionsetField:
+    Preview: پیش‌نمایش
+  MemberImportForm:
+    ResultDeleted: 'کاربر %d حذف شد'
+    ResultNone: 'تغییری ایجاد نشد'
+  ModelAdmin:
+    DELETE: حذف
+  ModelAdmin_Tools_ss:
+    FILTER: پالایش
+    IMPORT: وارد کردن
+  ModelSidebar_ss:
+    IMPORT_TAB_HEADER: وارد کردن
+    SEARCHLISTINGS: جستجو
+  MoneyField:
+    FIELDLABELAMOUNT: مقدار
+    FIELDLABELCURRENCY: واحد پول
+  NullableField:
+    IsNullLabel: 'خالی است'
+  Pagination:
+    Page: صفحه
+    View: نمایش
+  Permission:
+    AdminGroup: مدیر کل
+    CMS_ACCESS_CATEGORY: 'دسترسی CMS'
+    FULLADMINRIGHTS: 'توانایی‌های کامل مدیریتی:'
+  PermissionRole:
+    PLURALNAME: وظایف
+    SINGULARNAME: وظیفه
+    Title: عنوان
+  Permissions:
+    PERMISSIONS_CATEGORY: 'مجوز دسترسی ها و وظایف'
+  PhoneNumberField:
+    VALIDATION: 'لطفاً شماره تلفن معتبر وارد کنید'
+  Security:
+    ALREADYLOGGEDIN: 'شما به این صفحه دسترسی ندارید. اگر حساب کاربری دیگری دارید که به این صفحه دسترسی دارد، شما میتوانید دوباره وارد شوید..'
+    CHANGEPASSWORDHEADER: 'تغییر گذرواژه'
+    ENTERNEWPASSWORD: 'لطفاً گذرواژه جدید را وارد کنید.'
+    LOGIN: 'ورود'
+  SecurityAdmin:
+    APPLY_ROLES: 'اعمال وظایف به گروه'
+    MEMBERS: کاربران
+    MENUTITLE: امنیت
+    NEWGROUP: 'گروه تازه'
+    ROLES: وظایف
+    TABROLES: وظایف
+    Users: کاربران
+  SecurityAdmin_MemberImportForm:
+    BtnImport: 'وارد کردن'
+  SilverStripeNavigator:
+    Edit: ویرایش
+    Mobile: موبایل
+    Tablet: تبلت
+    Width: پهنا
+  SiteTree:
+    TABMAIN: اصلی
+  TableListField:
+    Print: چاپ
+  ToggleField:
+    MORE: بیشتر
+  UploadField:
+    DOEDIT: ذخیره
+    Dimensions: ابعاد
+    EDIT: ویرایش
+    REMOVE: حذف
+    Saved: ذخیره شده
+  Versioned:
+    has_many_Versions: نسخه ها
